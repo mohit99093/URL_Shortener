@@ -5,9 +5,9 @@
 	"main": "server.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"server" : "npx nodemon server",
-		"client" : "cd Client && npm run start",
-		"client:build" : "cd Client && npm run bulid"
+		"server": "npx nodemon server",
+		"client": "cd Client && npm run start",
+		"client:build": "cd Client && npm run build"
 	},
 	"author": "",
 	"license": "ISC",
