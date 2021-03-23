@@ -52,7 +52,7 @@ exports.decode = async (req, res) => {
 				cc += compresedString[c]
 				c++
 			}
-			console.log(cc)
+		
 			for (let index = 0; index < cc; index++) decompressedString += cha
 		}
 		return decompressedString
