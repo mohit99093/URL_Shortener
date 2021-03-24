@@ -1,0 +1,1 @@
+web : cd Client && npm run start
